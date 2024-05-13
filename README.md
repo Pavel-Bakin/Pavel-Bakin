@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src=https://i.gifer.com/embedded/download/Yy7O.gif />
+  <img height="300" width="600" src=https://proprikol.ru/wp-content/uploads/2023/07/gifki-animacziya-s-dnem-sistemnogo-administratora-15.gif />
 </div>
 
 ###
