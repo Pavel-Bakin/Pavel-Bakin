@@ -19,9 +19,7 @@
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+![snake gif](https://github.com/Pavel-Bakin/Pavel-Bakin/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
